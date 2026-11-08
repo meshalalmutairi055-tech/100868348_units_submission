@@ -6,6 +6,6 @@
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true,
-    "chat.disableAIFeatures": false,
+    "chat.disableAIFeatures": true,
     "workbench.settings.showAISearchToggle": false
 }
